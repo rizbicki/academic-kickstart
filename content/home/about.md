@@ -26,12 +26,12 @@ weight = 5
 
 [[education.courses]]
   course = "Master in Statistics"
-  institution = "University of São Paulo"
+  institution = "University of Sao Paulo"
   year = 2010
 
 [[education.courses]]
   course = "BSc in Statistics"
-  institution = "University of São Paulo"
+  institution = "University of Sao Paulo"
   year = 2009
  
 +++
