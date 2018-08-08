@@ -10,29 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning",
-    "Nonparametric Statistics",
-    "Bayesian Inference",
-    "Foundations of Statistics",
-    "Astrostatistics",
-    "High-dimensional Inference"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics"
-  institution = "Carnegie Mellon University"
-  year = 2014
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "Master in Statistics"
-  institution = "University of Sao Paulo"
-  year = 2010
-
-[[education.courses]]
-  course = "BSc in Statistics"
-  institution = "University of Sao Paulo"
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
   year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
  
 +++
 
